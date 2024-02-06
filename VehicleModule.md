@@ -39,3 +39,6 @@ graph TD
     F --> F1[Data Encryption]
     F --> F2[Authentication & Authorization]
     F --> F3[Regulatory Standards]
+
+
+*
