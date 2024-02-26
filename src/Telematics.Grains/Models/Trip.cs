@@ -1,12 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Telematics.Grains.Models
+﻿namespace Telematics.Grains.Models
 {
-    internal class Trip
+    public class Trip
     {
+        public string TripId { get; set; }
+        public string DriverId { get; set; }
+        public DateTime StartTime { get; set; }
+        public DateTime EndTime { get; set; }
+        public double Distance { get; set; }
+        // Additional trip details as needed
     }
 }

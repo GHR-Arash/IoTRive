@@ -9,6 +9,7 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.Orleans.Core" Version="8.0.0" />
     <PackageReference Include="Microsoft.Orleans.Core.Abstractions" Version="8.0.0" />
+    <PackageReference Include="Microsoft.Orleans.OrleansSqlUtils" Version="2.4.5" />
   </ItemGroup>
 
 </Project>
