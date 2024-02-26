@@ -1,0 +1,1 @@
+this Project Exposes a set of RESTful APIs to interact with the telematics platform, serving as a gateway for web or mobile clients
