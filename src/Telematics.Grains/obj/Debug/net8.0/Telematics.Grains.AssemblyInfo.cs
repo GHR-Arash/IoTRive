@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Telematics.Grains")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cba3435cfea527e4cb1433e667501c9362890c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Telematics.Grains")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Telematics.Grains")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,13 @@
+C:\Projects\IoTRive\src\Telematics.Grains\obj\Debug\net8.0\Telematics.Grains.csproj.AssemblyReference.cache
+C:\Projects\IoTRive\src\Telematics.Grains\obj\Debug\net8.0\Telematics.Grains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\IoTRive\src\Telematics.Grains\obj\Debug\net8.0\Telematics.Grains.AssemblyInfoInputs.cache
+C:\Projects\IoTRive\src\Telematics.Grains\obj\Debug\net8.0\Telematics.Grains.AssemblyInfo.cs
+C:\Projects\IoTRive\src\Telematics.Grains\obj\Debug\net8.0\Telematics.Grains.csproj.CoreCompileInputs.cache
+C:\Projects\IoTRive\src\Telematics.Grains\obj\Debug\net8.0\Telematics.Grains.sourcelink.json
+C:\Projects\IoTRive\src\Telematics.Grains\bin\Debug\net8.0\Telematics.Grains.deps.json
+C:\Projects\IoTRive\src\Telematics.Grains\bin\Debug\net8.0\Telematics.Grains.dll
+C:\Projects\IoTRive\src\Telematics.Grains\bin\Debug\net8.0\Telematics.Grains.pdb
+C:\Projects\IoTRive\src\Telematics.Grains\obj\Debug\net8.0\Telematics.Grains.dll
+C:\Projects\IoTRive\src\Telematics.Grains\obj\Debug\net8.0\refint\Telematics.Grains.dll
+C:\Projects\IoTRive\src\Telematics.Grains\obj\Debug\net8.0\Telematics.Grains.pdb
+C:\Projects\IoTRive\src\Telematics.Grains\obj\Debug\net8.0\ref\Telematics.Grains.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aTpVOBplrChPXpG7zHCQNyErYqyMv7xJNCOMNFPtwL0=",
+  "Source": "Telematics.WebApi",
+  "BasePath": "_content/Telematics.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
