@@ -3,6 +3,8 @@ src/.vs
 src/Telematics.Grains/bin
 src/Telematics.Grains/obj
 
+# Other exclusions, if any...
+
 src/Telematics.Grains/[Dd]ebug/
 src/Telematics.Grains/[Dd]ebugPublic/
 src/Telematics.Grains/[Rr]elease/
