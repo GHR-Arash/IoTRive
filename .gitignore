@@ -1,3 +1,4 @@
 .vs
 src/.vs
 src/Telematics.Grains/bin
+src/Telematics.Grains/obj
